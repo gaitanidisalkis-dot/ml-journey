@@ -1,9 +1,9 @@
-# Day 01 — 2026-07-03
+# Day 01 — 2026-07-04
 
 **Phase:** 1 | **Week:** 1 | **Time today:** ~2.5h
 
 ## 🎯 Focus
-Getting started with Python OOP — classes & objects.
+Getting started with Python basics. The goal is to do a revision of all basic concepts
 
 ## ✅ Done
 - Watched Corey Schafer's first 2 OOP videos

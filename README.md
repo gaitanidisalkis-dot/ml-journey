@@ -38,7 +38,7 @@ Moving from "notebooks that run" to "production code that lasts" — OOP, testin
 
 ## 📈 Progress Snapshot
 
-- **Days logged:** 0
+- **Days logged:** 1
 - **Concepts mastered:** _[list grows over time]_
 - **Projects shipped:** 0
 
