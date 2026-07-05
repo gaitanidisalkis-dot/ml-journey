@@ -9,17 +9,11 @@ Getting started with Python basics. The goal is to do a revision of all basic co
 - Subjects of the revision: 
 a) Variables, data types, meutability - mutable (list, dict) vs immutable (tuple, str, int)
 b) Data structures — lists, dicts, sets, tuples
-c) List/dict comprehensions
-d) Functions — arguments, default values, *args, **kwargs, return values
-e) Scope — local vs global
-f) Modules & imports
 
-## 💡 Learned
 
 ## 🧱 Stuck / Questions
-
+- Lost some time setting everything up and making the roadmap but thats a good thing because now i can put all my energy on learning
 
 ## ⏭️ Tomorrow
-
+Continue my revision
 ---
-_Streak: 1 day_

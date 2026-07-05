@@ -20,4 +20,3 @@ _One line: what was today about? (e.g. "OOP inheritance & composition")_
 - _Next step_
 
 ---
-_Streak: X days_
