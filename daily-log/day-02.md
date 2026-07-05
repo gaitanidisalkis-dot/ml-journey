@@ -1,8 +1,3 @@
-c) List/dict comprehensions
-d) Functions — arguments, default values, *args, **kwargs, return values
-e) Scope — local vs global
-f) Modules & imports
-
 # Day 02 — 2026-07-05
 
 **Phase:** 1 | **Week:** 1 | **Time today:** ~2.5h
