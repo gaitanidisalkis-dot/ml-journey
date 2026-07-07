@@ -30,17 +30,10 @@ Moving from "notebooks that run" to "production code that lasts" — OOP, testin
 ## 📁 Repo Structure
 
 ```
-├── daily-log/        # Short daily entries — what I did, what I learned
 ├── weekly-reviews/   # Weekly reflections & checkpoint progress
 ├── notes/            # Concept notes in my own words
 └── projects/         # Links & summaries of projects I build
 ```
-
-## 📈 Progress Snapshot
-
-- **Days logged:** 1
-- **Concepts mastered:** _[list grows over time]_
-- **Projects shipped:** 0
 
 ## 🔗 Projects
 
