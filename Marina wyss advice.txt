@@ -1,0 +1,19 @@
+There is this https://www.youtube.com/watch?v=UZ_rK9gzVSc yt video with some useful advices
+1) Build real intuition 
+	a) 3blue1brown essence of linear algebra and calculus series
+	b) Statquest with josh starmer for algorithms
+	c) https://www.deeplearning.ai/specializations/machine-learning 
+	* use all the above to also learn the fundamentals of neural networks 
+
+2) Learn Python
+	a) data types, control flow, functions and working with files
+	b) numpy for matrix operations, panda for tambular data
+
+3) Implement algorithms from starch in numpy (Logistic regression, K-means, decision trees)
+	a) write down the steps, the basic math and then code it out
+
+4) Gen AI and bigger projects than just classical ML ones
+
+5) ML coding interviews. Some of them need also leet code practice on data and structures not only AI. 
+
+6) Networking and referrals. 
